@@ -1,9 +1,1 @@
-[
-  {
-    "id": "132132",
-    "title": "Test",
-    "imageUrl": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?w=2000",
-    "description": "TEST",
-    "price": "123"
-  }
-]
+[{"id":"132132","title":"Test","imageUrl":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?w=2000","description":"TEST","price":"123"},{"title":"Another Book","imageUrl":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=2000","description":"Another Book !!","price":"9","id":"0.5825347388487823"}]
